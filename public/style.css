@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  font-size: 2rem;
+}
+
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+
+.jumbotron h1 {
+
+  font-family: 'Bangers', cursive;
+  color: white;
+  font-size: 10rem;
+  font-weight: bold;
+
+}
+img {
+  height: 200px;
+  display: block;
+}
+
+#loginImage {
+  height: 200px;
+  display: inline;
+}
+
+.jumbotron {
+  background-image: url(img/Anime.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.fa-archway {
+  font-size: 3rem;
+}
+
+.jumbotron p {
+
+font-weight: bold;
+color: white;
+}
+
+.jumbotron {
+  /* background-image: url(../img/Anime.png); */
+  background-position: center;
+  background-size: cover;
+}
